@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шифры", "Шифры\Шифры.csproj", "{1729BFFF-9019-4F45-B0F6-2A584513966F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1729BFFF-9019-4F45-B0F6-2A584513966F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1729BFFF-9019-4F45-B0F6-2A584513966F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1729BFFF-9019-4F45-B0F6-2A584513966F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1729BFFF-9019-4F45-B0F6-2A584513966F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FE77B59-B42A-4D2D-B7DF-96A9286AEEE9}
+	EndGlobalSection
+EndGlobal

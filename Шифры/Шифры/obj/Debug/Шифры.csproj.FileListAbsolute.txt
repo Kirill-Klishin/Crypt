@@ -1,0 +1,6 @@
+C:\Users\Геннадий\source\repos\Шифры\Шифры\bin\Debug\Шифры.exe
+C:\Users\Геннадий\source\repos\Шифры\Шифры\bin\Debug\Шифры.pdb
+C:\Users\Геннадий\source\repos\Шифры\Шифры\obj\Debug\Шифры.csprojAssemblyReference.cache
+C:\Users\Геннадий\source\repos\Шифры\Шифры\obj\Debug\Шифры.csproj.CoreCompileInputs.cache
+C:\Users\Геннадий\source\repos\Шифры\Шифры\obj\Debug\Шифры.exe
+C:\Users\Геннадий\source\repos\Шифры\Шифры\obj\Debug\Шифры.pdb
